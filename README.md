@@ -144,7 +144,7 @@ End Sub
    
    Original Stock Analysis Timings:
 
-   ![Module_Stock_Analysis_2017](Resources/Module_Stock_Analysis_2017.png)
+   ![Module_Stock_Analysis_2017](Resources/Module_Stock_Analysis_2017.PNG)
    
 
    Refactored Timings:

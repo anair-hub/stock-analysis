@@ -7,7 +7,6 @@
 ## Results
    
    Refactored Code:
-   
    Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
@@ -144,25 +143,28 @@ End Sub
    ### 2017
    
    Original Stock Analysis Timings:
-   
-    ![Module_Stock_Analysis_2017](Resources/Module_Stock_Analysis_2017.PNG)
 
+   ![Module_Stock_Analysis_2017](Resources/Module_Stock_Analysis_2017.png)
+   
 
    Refactored Timings:
-   
-    ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
+   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+
+   
    As reflected , refactored code runs faster by making use of array data structures 
 
    ### 2018
 
    Original Stock Analysis Timings:
 
-    ![Module_Stock_Analysis_2018](Resources/Module_Stock_Analysis_2018.PNG)
+   ![Module_Stock_Analysis_2018](Resources/Module_Stock_Analysis_2018.png)
+   
     
    Refactored Timings:
 
-    ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
+   ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+   
 
     As reflected , refactored code runs faster by making use of array data structures 
 

@@ -149,7 +149,7 @@ End Sub
 
    Refactored Timings:
 
-   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
+   ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.PNG)
 
    
    As reflected , refactored code runs faster by making use of array data structures 
@@ -158,12 +158,12 @@ End Sub
 
    Original Stock Analysis Timings:
 
-   ![Module_Stock_Analysis_2018](Resources/Module_Stock_Analysis_2018.png)
+   ![Module_Stock_Analysis_2018](Resources/Module_Stock_Analysis_2018.PNG)
    
     
    Refactored Timings:
 
-   ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
+   ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
    
 
     As reflected , refactored code runs faster by making use of array data structures 
